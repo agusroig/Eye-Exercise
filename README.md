@@ -32,7 +32,7 @@
 
 <hr> -->
 <p align="center" style="padding:15px;">
-  <img width="250" height="264" src="images/oneeye.png">
+  <img width="280" src="images/oneeye.png">
 </p>
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -52,7 +52,7 @@
 
 This project was made for MITxPro web developer certification. These are animated eyeballs that follows the mouse movement. Ypu can check the live project on the following link:
 
-[live project](https://agusroig.github.io/PacMen-Exercise/)  
+[live project](https://agusroig.github.io/Eye-Exercise/)  
 
 ## :sparkles: Features ##
 
