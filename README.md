@@ -84,7 +84,7 @@ $ cd eye-exercise
 ```
 ## :calendar: Roadmap of future improvements ##
 
-| Status                        | Goal          | label  |
+| Goal                    |  Progress         | Status |
 | ------------- |:-------------:| -----:|
 | Customize character  | :hourglass_flowing_sand: | coming soon |
 | adding eyes  | :hourglass_flowing_sand: | coming soon |
