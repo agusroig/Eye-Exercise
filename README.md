@@ -64,11 +64,9 @@ This project was made for MITxPro web developer certification. These are animate
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://www.javascript.com/)
 
 ## :white_check_mark: Requirements ##
 
@@ -83,20 +81,13 @@ $ git clone https://github.com/agusroig/eye-exercise
 # Access
 $ cd eye-exercise
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 ## :calendar: Roadmap of future improvements ##
 
 | Status                        | Goal          | label  |
 | ------------- |:-------------:| -----:|
-| Customize character  | :hourglass_flowing_sand: | in progress |
-| adding eyes  | :hourglass_flowing_sand: | in progress |
+| Customize character  | :hourglass_flowing_sand: | coming soon |
+| adding eyes  | :hourglass_flowing_sand: | coming soon |
 
 ## :memo: License ##
 
