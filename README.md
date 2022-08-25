@@ -32,7 +32,7 @@
 
 <hr> -->
 <p align="center" style="padding:15px;">
-  <img width="280" src="images/oneeye.png">
+  <img width="280" src="images/monster.jpg">
 </p>
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
