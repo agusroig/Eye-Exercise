@@ -6,17 +6,17 @@ body {
 
 .eyes {
   position: absolute;
-  top: 50%;
+  top: 27%;
   transform: translateY(-50%);
   width: 100%;
   text-align: center;
 }
 .eye {
-  width: 240px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   background: #fff;
   display: inline-block;
-  margin: 40px;
+  margin: 20px;
   border-radius: 50%;
   position: relative;
   overflow: hidden;
@@ -30,4 +30,28 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 50%;
+}
+
+.monster{
+  background-image: url(./images/monster1.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+}
+.nav{
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
+  display: inline;
+  list-style-type: none;
+}
+.nav li{
+  border-radius: 8px;
+  margin:10px;
+  padding:10px;
+  background-color: #fff;
+}
+button{
+  border:none;
 }

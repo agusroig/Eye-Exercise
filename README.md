@@ -50,7 +50,8 @@
 
 ## :dart: About ##
 
-This project was made for MITxPro web developer certification. These are animated eyeballs that follows the mouse movement. Ypu can check the live project on the following link:
+This project was made for MITxPro web developer certification. These are animated eyeballs that follows the mouse movement. By clicking the navigation buttons on the right you can choose between 3 monsters and change background color.
+You can check the live project on the following link:
 
 [live project](https://agusroig.github.io/Eye-Exercise/)  
 
@@ -59,6 +60,8 @@ This project was made for MITxPro web developer certification. These are animate
 :heavy_check_mark: Animated eyes
 
 :heavy_check_mark: Follows mouse movement
+
+:heavy_check_mark: Change monster by clicking the buttons
 
 ## :rocket: Technologies ##
 
@@ -86,7 +89,7 @@ $ cd eye-exercise
 
 | Goal                    |  Progress         | Status |
 | ------------- |:-------------:| -----:|
-| Customize character  | :hourglass_flowing_sand: | coming soon |
+| add more characters  | :hourglass_flowing_sand: | coming soon |
 | adding eyes  | :hourglass_flowing_sand: | coming soon |
 
 ## :memo: License ##
